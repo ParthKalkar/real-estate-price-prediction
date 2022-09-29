@@ -9,7 +9,7 @@ __model = None
 def get_estimated_price(location,sqft,bhk,bath):
     try:
         loc_index = __data_columns.index(location.lower())
-    except:
+    except Exception:
         loc_index = -1
 
     x = np.zeros(len(__data_columns))
