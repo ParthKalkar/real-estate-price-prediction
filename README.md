@@ -31,7 +31,11 @@ https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
 ![Screenshot from 2022-09-29 13-04-15](https://user-images.githubusercontent.com/50231750/193006178-1f61c4f3-b8e8-46ea-b96c-80f82c9a48a9.png)
 
+
 ![Screenshot from 2022-09-29 13-04-20](https://user-images.githubusercontent.com/50231750/193006337-61b0c6e9-d031-4358-97a6-a58c573f295e.png)
+
+![image](https://user-images.githubusercontent.com/50231750/193006731-580e4261-dad5-4e4b-8586-6f2e1c515c4c.png)
+
 
 
 
