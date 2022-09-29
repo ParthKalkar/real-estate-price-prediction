@@ -24,10 +24,15 @@ https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI!
 
-[Screenshot from 2022-09-29 13-04-15](https://user-images.githubusercontent.com/50231750/193006178-1f61c4f3-b8e8-46ea-b96c-80f82c9a48a9.png)
+
 
 
 ## Output
+
+[Screenshot from 2022-09-29 13-04-15](https://user-images.githubusercontent.com/50231750/193006178-1f61c4f3-b8e8-46ea-b96c-80f82c9a48a9.png)
+
+![Screenshot from 2022-09-29 13-04-20](https://user-images.githubusercontent.com/50231750/193006337-61b0c6e9-d031-4358-97a6-a58c573f295e.png)
+
 
 
 
