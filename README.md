@@ -19,10 +19,13 @@ https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 1. Python
 2. Numpy and Pandas for data cleaning
 3. Matplotlib for data visualization
-4. Sklearn for model building
+4. Sklearn for model building![Uploading Screenshot from 2022-09-29 13-04-15.png…]()
 5. Jupyter notebook, visual studio code and pycharm as IDE
 6. Python flask for http server
 7. HTML/CSS/Javascript for UI
 
 ## Output
+
+https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
+
 
